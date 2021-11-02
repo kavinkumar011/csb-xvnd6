@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kavinkumar011.github.io/csb-xvnd6/static/css/main.2a758e7a.chunk.css",
+    "main.js": "https://kavinkumar011.github.io/csb-xvnd6/static/js/main.119cf4ae.chunk.js",
+    "main.js.map": "https://kavinkumar011.github.io/csb-xvnd6/static/js/main.119cf4ae.chunk.js.map",
+    "runtime-main.js": "https://kavinkumar011.github.io/csb-xvnd6/static/js/runtime-main.84117417.js",
+    "runtime-main.js.map": "https://kavinkumar011.github.io/csb-xvnd6/static/js/runtime-main.84117417.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://kavinkumar011.github.io/csb-xvnd6/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://kavinkumar011.github.io/csb-xvnd6/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://kavinkumar011.github.io/csb-xvnd6/index.html",
+    "static/css/main.2a758e7a.chunk.css.map": "https://kavinkumar011.github.io/csb-xvnd6/static/css/main.2a758e7a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://kavinkumar011.github.io/csb-xvnd6/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84117417.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.2a758e7a.chunk.css",
+    "static/js/main.119cf4ae.chunk.js"
+  ]
+}
